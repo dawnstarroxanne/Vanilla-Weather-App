@@ -65,6 +65,8 @@ li::first-letter {
   text-decoration: none;
 }
 .weather-forecast {
+  display: flex;
+  flex-direction: row;
   border: 1px solid #202124;
   margin-top: 10px;
   text-align: center;
