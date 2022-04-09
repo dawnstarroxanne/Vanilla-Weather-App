@@ -58,8 +58,7 @@ function displayForecast(response) {
                   forecastDay.temp.min
                 )}º</span>
               </div>
-            </div>
-          </div>`;
+            </div>`;
     }
   });
   forecastHTML = forecastHTML + `</div>`;
